@@ -1,0 +1,26 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+.custom-btn {
+    transition: background-color 0.3s ease; /* Transición suave para el cambio de color de fondo */
+  }
+  
+  .custom-btn:hover {
+    background-color: transparent; /* Al pasar el mouse, el color de fondo se vuelve transparente */
+    font-weight: bold; /* Al pasar el mouse, la letra se pone en negrita */
+  }
+
+  
+
+  h1 {
+    color: white;
+  }
+
+  .input-blancobold{
+    color: white;
+    font-weight: bold;
+  }
